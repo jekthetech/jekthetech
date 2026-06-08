@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, my name is Jake! 👋
 
-<!--
-**jekthetech/jekthetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer with professional experience developing internal administrative applications within enterprise environments and have a strong foundation in software troubleshooting, system integration, and collaborative engineering environments. I am currently expanding into autonomous systems and robotics engineering and have a passion for robotics, autonomous navigation, and intelligent systems development.
 
-Here are some ideas to get you started:
+## Current Work & Projects
+* I am currently working at Lawrence Technological University as a Project Integration Specialist
+  
+* I am currently a masters student working on my Thesis at LTU
+  
+* I participated at the 2026 IGVC and lead my team to take first place in the Self Drive portion of the competition as the Team Technical Lead
+  
+## Contact Me
+Email: jhallettx360@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=ros,py,raspberrypi,arduino,github,cs,cpp,html,dotnet,docker,discord,sublime,sklearn,vscode,visualstudio,rider,postman,powershell,mysql,ubuntu,linux,windows,apple,unity,unreal)](https://skillicons.dev)  
